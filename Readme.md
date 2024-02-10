@@ -73,6 +73,11 @@ sudo systemctl start grafana-server
 sudo systemctl status grafana-server
 ```
 
+### Run .sh file
+```
+sudo sh <file_name.sh>
+```
+
 ### Test internet speed
 ```
 sudo apt update
