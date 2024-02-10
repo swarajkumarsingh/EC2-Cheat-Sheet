@@ -10,7 +10,14 @@ sudo apt update
 ### Git
 ```
 sudo apt update
-sudo apt-get install git
+sudo apt install git
+```
+
+### Make
+```
+sudo apt update
+sudo apt install make
+ls /usr/bin/make
 ```
 
 ### Nodejs
