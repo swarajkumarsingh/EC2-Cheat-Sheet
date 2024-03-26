@@ -78,6 +78,12 @@ sudo systemctl status grafana-server
 sudo sh <file_name.sh>
 ```
 
+### Install htop
+```
+sudo apt update
+sudo apt install htop
+```
+
 ### Test internet speed
 ```
 sudo apt update
