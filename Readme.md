@@ -60,6 +60,13 @@ sudo apt install golang-go
 golang version
 ```
 
+### Django
+```
+sudo apt-get update
+sudo apt install python3-pip -y
+pip install django
+```
+
 ### Grafana
 ```
 sudo apt-get install -y apt-transport-https software-properties-common wget
