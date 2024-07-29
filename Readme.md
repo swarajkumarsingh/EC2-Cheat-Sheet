@@ -19,6 +19,12 @@ sudo apt install python3
 python3 --version
 ```
 
+### Pip
+```
+sudo apt install python3-pip
+pip
+```
+
 ### Make
 ```
 sudo apt update
