@@ -13,6 +13,12 @@ sudo apt update
 sudo apt install git
 ```
 
+### Python v3
+```
+sudo apt install python3
+python3 --version
+```
+
 ### Make
 ```
 sudo apt update
